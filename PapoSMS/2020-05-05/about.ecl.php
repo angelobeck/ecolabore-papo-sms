@@ -1,0 +1,5 @@
+'map'={
+'adminIntegrations'={
+#='integrationPapoSMS'
+}
+}

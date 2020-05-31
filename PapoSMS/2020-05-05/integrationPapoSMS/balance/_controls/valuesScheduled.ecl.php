@@ -1,0 +1,12 @@
+'text'={
+'caption'={
+'pt'={
+1='Agendados'
+2=1
+}
+'en'={
+1='Scheduled'
+2=1
+}
+}
+}

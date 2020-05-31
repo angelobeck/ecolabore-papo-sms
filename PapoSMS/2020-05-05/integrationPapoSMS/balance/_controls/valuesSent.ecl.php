@@ -1,0 +1,12 @@
+'text'={
+'caption'={
+'pt'={
+1='Enviados'
+2=1
+}
+'en'={
+1='Sent'
+2=1
+}
+}
+}
